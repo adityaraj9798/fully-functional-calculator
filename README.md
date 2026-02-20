@@ -47,17 +47,6 @@ Fully Functional Calculator is a lightweight frontend project that replicates a 
 ## 🌐 Live Demo
 
 🔗 https://adityaraj9798.github.io/fully-functional-calculator/
-
----
-
-## 📸 Screenshot
-
-> Add your screenshot inside a `screenshots` folder in your repository.
-
-```markdown
-![Calculator Preview](screenshots/calculator.png)
-```
-
 ---
 
 ## 💡 How It Works
